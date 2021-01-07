@@ -4,4 +4,5 @@ Standing strong
 On their chosen battle field
 
 CONTENT
-Add
+Git reset test head 
+Reset head edit

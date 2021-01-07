@@ -19,3 +19,4 @@ Testing non fastfw merge
 
 Add content to feature 
 
+TAGS

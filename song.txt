@@ -7,13 +7,4 @@ CONTENT
 Git reset test head 
 Reset head edit
 
-
-----
-Add content for new branch
-
-
---
-Add another commit 
-
---
-Testing non fastfw merge
+Add content to feature 

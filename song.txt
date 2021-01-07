@@ -8,9 +8,6 @@ Git reset test head
 Reset head edit
 
 
-----
-Add content for new branch
-
 
 --
 Add another commit 
@@ -19,3 +16,6 @@ Add another commit
 Testing non fastfw merge
 
 -- add content for master 
+
+Add content to feature 
+
